@@ -1,0 +1,12 @@
+Pandas
+Numpy
+Matplotlib
+Scikit-learn
+Seaborn
+TensorFlow
+Keras
+Flask
+Django
+SQLAlchemy
+
+-e .
