@@ -8,5 +8,8 @@ Keras
 Flask
 Django
 SQLAlchemy
+catboost
+XGBoost
+LightGBM
 
--e .
+#-e .
